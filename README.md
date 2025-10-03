@@ -1,4 +1,4 @@
 # Portfolio
 This is my first repository
 <br>
-(Author-Nishant Raj)
+Author-Nishant Raj
